@@ -1,0 +1,2 @@
+﻿因文件较大，《解码三大数学常数》（Φ的密码、π的密码、e的密码）放在分仓库，位置如下：
+https://drive.google.com/drive/folders/1fkHfY32Xu7COfRaDKv5-RXOzNYIHsVOn?usp=sharing
